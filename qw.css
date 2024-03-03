@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+ background-image: url('./gradient-valentine-s-day-background_23-2149242406.avif');
+ background-size: cover;
+}
+h1{
+    color: crimson;
+}
+.box {
+  height: 530px;
+  width: 350px;
+  border: 2px solid black;
+  margin-left: 560px;
+  margin-top: 90px;
+  background-color: bisque;
+  border-radius: 8px;
+  
+}
+#my {
+  font-size: 35px;
+  color:rgb(143, 12, 86);
+}
+#myint {
+  height: 27px;
+  width: 300px;
+  border-radius: 4px;
+}
+#part {
+  font-size: 27px;
+  color:rgb(143, 12, 86);
+}
+#partint {
+  height: 27px;
+  width: 300px;
+  border-radius: 4px;
+}
+#cal {
+  margin-top: 20px;
+  height: 34px;
+  width: 320px;
+  background-color:rgba(202, 115, 0, 0.645);
+  cursor: pointer;
+  border-radius: 6px;
+}
+#ans {
+  margin-left: 25px;
+  width: 310px;
+  height: 28px;
+  border: 1px solid black;
+  border-radius: 10px;
+  
+}
+#reset {
+  margin-top: 20px;
+  width: 200px;
+  height: 30px;
+  cursor: pointer;
+  background-color:rgb(217, 72, 101);
+}
+h3 {
+  color: brown;
+}
